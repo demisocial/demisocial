@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faheem
-- 👀 I’m interested in Artificial Intelligence and Web Development.
-- 🌱 I’m currently learning Python, Java, Computation, HTML & CSS, Bash Scripting.
-- 💞️ I’m looking to collaborate in mini projects on Web Development, Software Development and Data Algorithms.
+- 👀 I’m interested in AI, Machine Learning, Data Structures and Algorithms and Web Development.
+- 🌱 I’m currently learning Python, Java, Theory of Computation, HTML & CSS, Machine Learning and SQL.
+- 💞️ I’m looking to collaborate in mini projects on Web Development, Software Development and Data Structures and Algorithms.
 - 📫 You can contact me on my Twitter (@fahimsical) for any collaorative or business inquiries.
 
 <!---
