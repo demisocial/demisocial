@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Faheem
-- 👀 I’m interested in AI, Machine Learning, Data Structures and Algorithms and Web Development.
-- 🌱 I’m currently learning Python, Java, Theory of Computation, HTML & CSS, Machine Learning and SQL.
-- 💞️ I’m looking to collaborate in mini projects on Web Development, Software Development and Data Structures and Algorithms.
+- 👋 Hi, I’m Faheem, a 3rd year student at Uniersity of Leicester
+- 👀 I’m interested in AI, Machine Learning and Software Development.
+- 🌱 I’m currently learning Computer Vision, Machine Learning and Mobile and Web App Development.
+- 💞️ I’m looking to collaborate in mini projects of all sorts related to my areas of interest, mentioned above.
 - 📫 You can contact me on my Twitter (@fahimsical) for any collaorative or business inquiries.
 
 <!---
